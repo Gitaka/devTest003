@@ -1,0 +1,9 @@
+This application is written in php,it creates a csv file and parses that data to generate two csv files i.e dbRows.csv which holds csv data queried from the database and consists of rows that have C or G as values at column 5 of the original csv file.The other csv file is activeMqRows.csv,which contains rows that have either A or T as 
+values at column 5.
+
+To run the program...
+
+1) Create a mysql database named devtest003
+2) cd into the root directory of this program
+3) run the script create_tbl.php to create database tables
+4) run the script genCSV.php.to generate the csv files
