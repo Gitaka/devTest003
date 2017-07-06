@@ -3,7 +3,7 @@ values at column 5.
 
 To run the program...
 
-1) Create a mysql database named devtest003
-2) cd into the root directory of this program
-3) run the script create_tbl.php to create database tables
-4) run the script genCSV.php.to generate the csv files
+1) Create a mysql database named devtest003.
+2) cd into the root directory of this program.
+3) run the script create_tbl.php to create database tables.
+4) run the script genCSV.php.to generate the csv files.
